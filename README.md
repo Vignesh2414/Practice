@@ -1,2 +1,3 @@
 # Practice
-New project
+New project repository
+
